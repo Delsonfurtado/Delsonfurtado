@@ -1,8 +1,9 @@
-**👋HE**Y,
+**👋HEY**,
 **I'm Delson furtado!**
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delsonfurtado&show_icons=true&theme=radical)
+
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&)
