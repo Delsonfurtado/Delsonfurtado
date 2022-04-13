@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **student**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **different coding languages**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
