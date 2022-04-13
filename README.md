@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **student**
+- 🔭 I’m currently  **student**
 
 - 🌱 I’m currently learning **different coding languages**
 
