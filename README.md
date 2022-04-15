@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are not available right now
 - 📫 How to reach me **coming soon**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games .**
 
 ## 🚀 Languages and Tools:
 
