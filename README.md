@@ -78,4 +78,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Delsonfurtado">
 </a>
-<a href="https://github.com/Delsonfurtado?tab=followers"><img src="https://img.shields.io/github/followers/Delsonfurtado?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/delson-furtado-938558224?tab=followers"><img src="https://img.shields.io/github/followers/Delsonfurtado?label=Followers&style=social" alt="GitHub Badge"></a>
