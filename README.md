@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=180&section=header&text=Delson%20Furtado%20👨‍💻&fontSize=40&fontColor=00FF9C&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hey!+I'm+Delson+Furtado; Cybersecurity+Student+%7C+Developer+%7C+Innovator;Code+isn't+just+logic,+it's+art;Welcome+to+my+Digital+Realm+🌐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hey!+I'm+Delson+Furtado;Cyber security+Student+%7C+Developer+%7C+Innovator;Code+isn't+just+logic,+it's+art;Welcome+to+my+Digital+Realm+🌐)](https://git.io/typing-svg)
 
 ---
 
