@@ -1,19 +1,29 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Delson%20Furtado&fontSize=40&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=180&section=header&text=Delson%20Furtado%20👨‍💻&fontSize=40&fontColor=00FF9C&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Delson+Furtado;A+Cybersecurity+Student;Python+%7C+C+%7C+Java+Developer;Tech+Enthusiast+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hi!+I'm+Delson+Furtado;Cybersecurity+Student+at+Nitte+University;Python+%7C+C+%7C+Java+Developer;Exploring+the+World+of+Hacking+and+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ---
 
-### 💻 Languages & Tools
+### ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk)
-![HTML5](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF9C)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF9C)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF9C)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF9C)
+
+---
+
+### 🧠 About Me
+
+🎓 **Computer Science Engineering (Cybersecurity)** student at *Nitte University*  
+🚀 Passionate about **ethical hacking, coding, and building secure systems**  
+🧩 Skilled in **Python, C, Java** and exploring **web security**  
+🎮 Love **Gaming (GTA RP)**, **Basketball**, and **Dogs 🐾**
 
 ---
 
@@ -23,7 +33,7 @@
 | --- | --- |
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DelsonFurtado&theme=tokyonight&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=react-dark)
 
 ---
 
@@ -37,15 +47,11 @@
 
 ---
 
-### 🧠 About Me
+### 💬 Cybersecurity Quote
 
-🎓 Studying **Computer Science Engineering (Cybersecurity)** at **Nitte University**  
-🚀 Interested in **Cybersecurity, Web Development, and Ethical Hacking**  
-🧩 Coding Languages: **Python**, **C**, **Java**  
-🎮 Hobbies: **Gaming (GTA RP)**, **Basketball**, and **Dogs 🐶**
+> *“The quieter you become, the more you are able to hear.  
+> In cybersecurity, silence is power — and awareness is the ultimate weapon.”* 🔐
 
 ---
 
-⭐️ *"Keep coding, stay curious, and build something awesome!"*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer)
