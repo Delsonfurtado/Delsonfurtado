@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=180&section=header&text=Delson%20Furtado%20👨‍💻&fontSize=40&fontColor=00FF9C&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hi!+I'm+Delson+Furtado;Code+is+my+language;I+create%2C+debug%2C+and+protect;Welcome+to+my+digital+world+🌐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hey!+I'm+Delson+Furtado;Cybersecurity+Student+%7C+Developer+%7C+Innovator;Code+isn't+just+logic,+it's+art;Welcome+to+my+Digital+Realm+🌐)](https://git.io/typing-svg)
 
 ---
 
@@ -20,10 +20,11 @@
 
 ### 🧠 About Me
 
-🚀 I write code that connects logic with creativity.  
-🧩 Skilled in **Python**, **C**, and **Java**.  
-🎮 Gamer at heart — love **GTA RP**, **Basketball**, and **Dogs 🐾**.  
-💡 I believe in building, breaking, and rebuilding — better each time.
+🎓 I’m a **Cybersecurity Student** who believes every byte has a story.  
+🚀 Passionate about **code, creativity, and breaking limits**.  
+💡 Skilled in **Python**, **C**, and **Java**.  
+🎮 Love **GTA RP**, **Basketball**, and **Dogs 🐾**.  
+🕹️ Always exploring how systems work — and how they can work *better*.  
 
 ---
 
@@ -49,8 +50,4 @@
 
 ### 💬 Quote
 
-> *“In a world full of firewalls, be the exploit that breaks limits — not systems.”* 🕶️
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer)
+> *“You can’t patch human curiosity —*
