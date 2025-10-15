@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=180&section=header&text=Delson%20Furtado%20👨‍💻&fontSize=40&fontColor=00FF9C&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hi!+I'm+Delson+Furtado;Cybersecurity+Student+at+Nitte+University;Python+%7C+C+%7C+Java+Developer;Exploring+the+World+of+Hacking+and+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hi!+I'm+Delson+Furtado;Code+is+my+language;I+create%2C+debug%2C+and+protect;Welcome+to+my+digital+world+🌐)](https://git.io/typing-svg)
 
 ---
 
@@ -20,20 +20,20 @@
 
 ### 🧠 About Me
 
-🎓 **Computer Science Engineering (Cybersecurity)** student at *Nitte University*  
-🚀 Passionate about **ethical hacking, coding, and building secure systems**  
-🧩 Skilled in **Python, C, Java** and exploring **web security**  
-🎮 Love **Gaming (GTA RP)**, **Basketball**, and **Dogs 🐾**
+🚀 I write code that connects logic with creativity.  
+🧩 Skilled in **Python**, **C**, and **Java**.  
+🎮 Gamer at heart — love **GTA RP**, **Basketball**, and **Dogs 🐾**.  
+💡 I believe in building, breaking, and rebuilding — better each time.
 
 ---
 
 ### 📊 GitHub Stats
 
-| ![Delson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelsonFurtado&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DelsonFurtado&layout=compact&theme=tokyonight&hide_border=true) |
+| ![Delson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelsonFurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9C&icon_color=00FF9C) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DelsonFurtado&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9C) |
 | --- | --- |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DelsonFurtado&theme=tokyonight&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=react-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DelsonFurtado&theme=tokyonight&hide_border=true&ring=00FF9C&fire=00FF9C)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=react-dark&color=00FF9C&line=00FF9C)
 
 ---
 
@@ -47,10 +47,9 @@
 
 ---
 
-### 💬 Cybersecurity Quote
+### 💬 Quote
 
-> *“The quieter you become, the more you are able to hear.  
-> In cybersecurity, silence is power — and awareness is the ultimate weapon.”* 🔐
+> *“In a world full of firewalls, be the exploit that breaks limits — not systems.”* 🕶️
 
 ---
 
