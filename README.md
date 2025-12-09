@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hey!+I'm+Delson+Furtado;Cybersecurity+Student%7CDeveloper%7CInnovator;Code+isn't+just+logic,+it's+art;Welcome+to+my+Digital+Realm+🌐)](https://git.io/typing-svg)
 
-
 ---
 
 ### ⚡ Tech Stack
@@ -24,22 +23,22 @@
 
 ### 🧠 About Me
 
-🎓 I’m a **Cybersecurity Student** who believes every byte has a story.  
-🚀 Passionate about **code, creativity, and breaking limits**.  
-💡 Skilled in **Python**, **C**, and **Java**.  
-🎮 Love **GTA RP**, **Basketball**, and **Dogs 🐾**.  
-🕹️ Always exploring how systems work — and how they can work *better*.  
+🎓 **Cybersecurity Student** who believes every byte has a story.  
+🚀 Passionate about **coding, breaking limits, and digital innovation**.  
+💡 Skilled in **Python**, **C**, **Java**, and **full-stack development**.  
+🎮 GTA RP lover, 🏀 basketball fan, and 🐶 dog enthusiast.  
+🛠️ Always exploring how systems work — and how to make them *unbreakable*.  
 
 ---
 
 ### 📊 GitHub Stats
 
-| ![Delson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelsonFurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9C&icon_color=00FF9C) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DelsonFurtado&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9C) |
+| ![Delson's GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=DelsonFurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9C&icon_color=00FF9C) | ![Top Languages](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=DelsonFurtado&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9C) |
 | --- | --- |
 
-![GitHubStreak](https://github-readme-streak-stats.herokuapp.com/?user=DelsonFurtado&theme=tokyonight&hide_border=true&ring=00FF9C&fire=00FF9C)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=react-dark&color=00FF9C&line=00FF9C)
+![GitHub Streak](https://streak-stats.demolab.com?user=DelsonFurtado&theme=tokyonight&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=react-dark&color=00FF9C&line=00FF9C&point=FFFFFF)
 
 ---
 
@@ -51,10 +50,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-
+---
 
 > *“You can’t patch human curiosity — that’s where every great hack begins.”* 🕶️  
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer)
