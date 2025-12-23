@@ -31,14 +31,22 @@
 
 ---
 
-### 📊 GitHub Stats
+---
 
-| ![Delson's GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=DelsonFurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9C&icon_color=00FF9C) | ![Top Languages](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=DelsonFurtado&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9C) |
+## 📊 GitHub Stats
+
+| ![Delson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelsonFurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9C&icon_color=00FF9C) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DelsonFurtado&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9C) |
 | --- | --- |
 
+---
+
+## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=DelsonFurtado&theme=tokyonight&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=react-dark&color=00FF9C&line=00FF9C&point=FFFFFF)
+---
+
+## 📈 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=tokyo-night&line=00FF9C&point=FFFFFF)
 
 ---
 
