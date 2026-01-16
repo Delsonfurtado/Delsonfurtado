@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=180&section=header&text=Delson%20Furtado%20👨‍💻&fontSize=40&fontColor=00FF9C&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hey!+I'm+Delson+Furtado;Cybersecurity+Student%7CDeveloper%7CInnovator;Code+isn't+just+logic,+it's+art;Welcome+to+my+Digital+Realm+🌐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hey!+I'm+Delson+Furtado;Cybersecurity+Student+%7C+Developer+%7C+Innovator;Code+isn't+just+logic,+it's+art;Welcome+to+my+Digital+Realm+🌐)](https://git.io/typing-svg)
 
 ---
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF9C)
@@ -21,15 +21,13 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-🎓 **Cybersecurity Student** who believes every byte has a story.  
-🚀 Passionate about **coding, breaking limits, and digital innovation**.  
-💡 Skilled in **Python**, **C**, **Java**, and **full-stack development**.  
-🎮 GTA RP lover, 🏀 basketball fan, and 🐶 dog enthusiast.  
-🛠️ Always exploring how systems work — and how to make them *unbreakable*.  
-
----
+🎓 **Cybersecurity student** who believes every byte has a story  
+🚀 Passionate about **coding, breaking limits, and digital innovation**  
+💡 Skilled in **Python, C, Java, and full-stack development**  
+🎮 GTA RP lover, 🏀 basketball fan, and 🐶 dog enthusiast  
+🛠️ Always exploring how systems work — and how to make them **unbreakable**
 
 ---
 
@@ -41,16 +39,18 @@
 ---
 
 ## 🔥 GitHub Streak
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=DelsonFurtado&theme=tokyonight&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
 
 ---
 
 ## 📈 Contribution Activity
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=tokyo-night&line=00FF9C&point=FFFFFF)
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
@@ -60,6 +60,6 @@
 
 ---
 
-> *“You can’t patch human curiosity — that’s where every great hack begins.”* 🕶️  
+> *“You can’t patch human curiosity — that’s where every great hack begins.”* 🕶️
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer)
