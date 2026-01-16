@@ -23,30 +23,31 @@
 
 ## 🧠 About Me
 
-🎓 **Cybersecurity student** who believes every byte has a story  
-🚀 Passionate about **coding, breaking limits, and digital innovation**  
-💡 Skilled in **Python, C, Java, and full-stack development**  
+🎓 Cybersecurity student who believes every byte has a story  
+🚀 Passionate about coding, breaking limits, and digital innovation  
+💡 Skilled in Python, C, Java, and full-stack development  
 🎮 GTA RP lover, 🏀 basketball fan, and 🐶 dog enthusiast  
-🛠️ Always exploring how systems work — and how to make them **unbreakable**
+🛠️ Focused on building secure and scalable systems  
 
 ---
 
 ## 📊 GitHub Stats
 
-| ![Delson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelsonFurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9C&icon_color=00FF9C) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DelsonFurtado&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9C) |
-| --- | --- |
+![Delson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelsonFurtado&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DelsonFurtado&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DelsonFurtado&theme=tokyonight&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
+![GitHub Streak](https://streak-stats.demolab.com?user=DelsonFurtado&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=tokyo-night&line=00FF9C&point=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DelsonFurtado&theme=tokyo-night)
 
 ---
 
@@ -62,4 +63,4 @@
 
 > *“You can’t patch human curiosity — that’s where every great hack begins.”* 🕶️
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer)
+![Footer](https://capsule-render
